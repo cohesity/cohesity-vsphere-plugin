@@ -7,11 +7,10 @@ Cohesity Extension for VMware vCenter
 
 ## Table of contents: :scroll:
 
- - [Prerequisites](#)
- - [Compatibility Matrix](#)
+ - [Prerequisites](https://docs.cohesity.com/api/integrations/vsphere/requirements-and-prerequisites-vsphere.htm)
  - [Download](https://github.com/cohesity/cohesity-vc-plugin/releases)
- - [Installation](#)
- - [Documentation](#)
+ - [Installation](https://docs.cohesity.com/api/integrations/vsphere/install-vsphere.htm)
+ - [Documentation](https://docs.cohesity.com/api/integrations/vsphere/concept-vsphere.htm)
  - [Features](#features)
  - [Suggestions and Feedback](#suggest)
 
